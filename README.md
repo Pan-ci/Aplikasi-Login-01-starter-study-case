@@ -9,5 +9,4 @@ Alur Fitur Login:
 **Latihan Pull Request**  
 *Menggunakan dua akun berbeda*
 
-- commit 2
-- commit 3
+- commit 1
